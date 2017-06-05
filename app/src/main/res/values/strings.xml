@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment_8_1</string>
+
+    <array name="months">
+        <item>April</item>
+        <item>Feb</item>
+        <item>Jan</item>
+        <item>Mar</item>
+        <item>May</item>
+        <item>July</item>
+        <item>June</item>
+        <item>Aug</item>
+        <item>Oct</item>
+        <item>Sept</item>
+        <item>Dec</item>
+        <item>Nov</item>
+    </array>
+</resources>
